@@ -19,3 +19,5 @@
 Availability zones (AZs) are isolated locations within data center regions from which public cloud services originate and operate. 
 Regions are geographic locations in which public cloud service providers' data centers reside. <br>
 <b> AWS currently has 81 AZ's </b>
+
+Blog : https://vrukshalitorawane.medium.com/aws-leaders-of-cloud-computing-e523810041a9
