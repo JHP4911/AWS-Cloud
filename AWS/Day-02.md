@@ -18,5 +18,7 @@ You can refer to official documentation of EC2 : https://docs.aws.amazon.com/AWS
 5. Launch an instance : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 6. Hibernation : https://aws.amazon.com/blogs/aws/new-hibernate-your-ec2-instances/
 
+![AWS](https://github.com/Vrukshali-26/Cloud/blob/main/AWS/images/AWS_EC2.png)
+
 ### You can also use AWS CLI to do the same...
 
